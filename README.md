@@ -1,2 +1,2 @@
-# Programação Funcional Haskell
+# Programação Funcional - Haskell
 Some resolutions may not be entirely correct!
